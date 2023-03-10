@@ -12,7 +12,7 @@
 
 <h3>🛠 Technologies</h3>
 
-- 💻 Backend: &nbsp;  Java | C#/.NET | ASP.NET | NodeJs
+- 💻 Backend: &nbsp;  Java| Spring | C#/.NET | ASP.NET | NodeJs
 - 🌐 Frontend:&nbsp; HTML | CSS | JavaScript | Bootstrap | Angular | 
 - 🛢 DataBase: &nbsp; SQL Server | MongoDb
 - 🔧 Tools: &nbsp;   Visual Studio | Git | Postman | Swagger | TSF | Github Actons | Jenkins
